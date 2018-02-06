@@ -16,3 +16,7 @@ def divide(x,y):
 
 def squared(x):
     return x ** 2
+
+
+def exponent(x,y):
+    return x ** y
